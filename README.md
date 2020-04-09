@@ -2,27 +2,32 @@
 
 Bu oyunda size üç sütun halinde kartlar sunulur. Bu kart dizisinden seçtiğiniz bir kartın bulunduğu sütuna basarsınız.
 
-![Resim1](https://raw.githubusercontent.com/kynemre/Ekler/master/Sihirbaz/Resim1.png?token=AK7ZPTYM5DS6VL2Z3QF4JJS6R47KE)
+![Resim1](https://user-images.githubusercontent.com/46110671/78919560-c06ad300-7a9a-11ea-95c1-4a30ff76ab20.png)
+
 
 Seçimi yaptıktan sonra, oyun kartları karıştırır ve aynı işlemi sizden tekrar ister.
 
-![Resim2](https://raw.githubusercontent.com/kynemre/Ekler/master/Sihirbaz/Resim2.png?token=AK7ZPT5MHVCIMRS6C7KJDNC6R47OG)
+![Resim2](https://user-images.githubusercontent.com/46110671/78919632-dd070b00-7a9a-11ea-9668-b35c7a6e92dd.png)
+
 
 Son kez kartlar karıştırılır ve kartınızın bulunduğu sütun seçilir.
 
-![Resim3](https://raw.githubusercontent.com/kynemre/Ekler/master/Sihirbaz/Resim3.png?token=AK7ZPT7PCLRL4EZ2YFJRA4K6R47TY)
+![Resim3](https://user-images.githubusercontent.com/46110671/78919659-ea23fa00-7a9a-11ea-9b54-5cccb7ad337e.png)
+
 
 Bu aşamadan sonra oyun seçtiğiniz kartı bulmuştur fakat kullanıcıya bir takım işlemler daha yaptırır.
 
-![Resim4](https://raw.githubusercontent.com/kynemre/Ekler/master/Sihirbaz/Resim4.png?token=AK7ZPTZWGN26O5OHFY2WOBC6R5AEA)
+![Resim4](https://user-images.githubusercontent.com/46110671/78919700-f4de8f00-7a9a-11ea-83a3-d43e77ec2388.png)
 
 Ardından
 
-![Resim4.1](https://raw.githubusercontent.com/kynemre/Ekler/master/Sihirbaz/Resim0.png?token=AK7ZPTZMGBTGCOT5HQCQYGS6R5AIS)
+![Resim4 1](https://user-images.githubusercontent.com/46110671/78919750-0889f580-7a9b-11ea-9f5d-47b519388790.png)
+
 
 Son olarak kartınızı açar.
 
-![Resim5](https://raw.githubusercontent.com/kynemre/Ekler/master/Sihirbaz/Resim5.png?token=AK7ZPT57OKX4RFHB2OZGMW26R5ALI)
+![Resim5](https://user-images.githubusercontent.com/46110671/78919760-0e7fd680-7a9b-11ea-9679-b780a1fe9789.png)
+
 
 
 # Peki Oyun Kartı Nasıl Buluyor?
