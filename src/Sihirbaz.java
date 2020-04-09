@@ -74,6 +74,9 @@ public class Sihirbaz extends GraphicsProgram{
 			anaMenu();
 		} 
 	}
+	public static void main(String[] args) {//jar dosyasi olarak cikartabilmek icin main kodu
+		(new Sihirbaz()).start(args);
+	}
 	public void run() {
 		setSize(1350,900);
 		/*anaMenuSes();*/
