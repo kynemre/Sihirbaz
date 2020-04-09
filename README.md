@@ -37,3 +37,12 @@ Oyun her bir dağıtımda kartları belli bir kurala göre dizer.<br/>
 Bu yedi kartı sütunların en sonuna gelecek şekilde dağıtır.
 Bu dağıtım sayesinde seçilen kartı bulma olasılığı 2/7 ya da 3/7 olacaktır.
 Son dağıtımdan sonra, tıklanan sütunun en sonundaki kart kullanıcının seçtiği karttır.
+
+
+# Bu Oyunu Nasıl Çalıştırabilirsiniz?
+
+Bu oyunu tamamen kendimizi geliştirmek amacıyla grup halinde proje ödevi olarak yaptık.<br/>
+Oyun Java dilinde Stanford Üniversitesinin sunmuş olduğu sürüm ile yazdık. Bu nedenle kodu bilgisayara optimize etmek zor olacaktır.<br/>
+Kodu .jar dosyası ile çalıştırabilirsiniz fakat bizim programı yazdığımız dönemdeki acemiliğimizden dolayı ekran boyutu gibi değişkenler bilgisayarınıza optimeze olmayabilir.
+
+<br/><br/>
